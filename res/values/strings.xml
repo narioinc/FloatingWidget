@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FloatingWidget</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="location_stub">Location Shown Here</string>
+	<string name="marker_desc">this is a floating marker</string>
+</resources>
